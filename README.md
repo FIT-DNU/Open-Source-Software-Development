@@ -18,3 +18,9 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
+
+## 🚀 1. Các project đã thực hiện dựa trên Platform
+
+Một số project sinh viên đã thực hiện:
+- #### [Khoá 17](./docs/projects/K17/README.md)
+- #### [Khoá 18]() (Coming soon)
