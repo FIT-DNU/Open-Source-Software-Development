@@ -3,8 +3,7 @@
 </h2>
 
 - #### KHMT 17-01
-    | Tên đề tài                                                        | Người thực hiện                                                                 | Source Code                          | Nổi bật |
-|-------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------|---------|
+    | Tên đề tài| Người thực hiện | Source Code | Nổi bật |||
 | Xây dựng ứng dụng web quản lý phòng học trong trường đại học      | Nguyễn Đức Linh, Lưu Khoa Bằng                                                     | [:octocat:github](https://github.com/linhjue/quanlyphonghoc) |         |
 | Xây dựng ứng dụng web quản lý hệ thống homestay du lịch           | Nguyễn Mạnh Cường, Phùng Hữu Tài                                                   | [:octocat:github](https://github.com/Dragonkin1402/Nhom2-QLHomestay.git) |         |
 | Xây dựng ứng dụng web quản lý đặt vé xem phim                     | Nguyễn Duy Thuần, Nguyễn Văn Tiến                                                  | [:octocat:github](https://github.com/NVT-Master/WebPhim) |         |
